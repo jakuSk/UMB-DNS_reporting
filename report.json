@@ -1,0 +1,638 @@
+{
+    "meta": {},
+    "data": [
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 36",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 18,
+                    "type": "content",
+                    "label": "News/Media",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 21,
+                    "type": "content",
+                    "label": "Portals",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 23,
+                    "type": "content",
+                    "label": "Search Engines",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "browser.events.data.msn.com",
+            "timestamp": 1638756216000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [
+                {
+                    "id": 28,
+                    "label": "Do Not Decrypt Application",
+                    "category": {
+                        "id": null,
+                        "label": "Sample Application Group"
+                    }
+                }
+            ],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 14",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 123,
+                    "type": "content",
+                    "label": "Infrastructure",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 138,
+                    "type": "content",
+                    "label": "Software Updates",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "ctldl.windowsupdate.com",
+            "timestamp": 1638756194000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 08",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 123,
+                    "type": "content",
+                    "label": "Infrastructure",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 138,
+                    "type": "content",
+                    "label": "Software Updates",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "kv501.prod.do.dsp.mp.microsoft.com",
+            "timestamp": 1638756188000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 08",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 123,
+                    "type": "content",
+                    "label": "Infrastructure",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 138,
+                    "type": "content",
+                    "label": "Software Updates",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "disc501.prod.do.dsp.mp.microsoft.com",
+            "timestamp": 1638756188000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 08",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 123,
+                    "type": "content",
+                    "label": "Infrastructure",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 138,
+                    "type": "content",
+                    "label": "Software Updates",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "cp501.prod.do.dsp.mp.microsoft.com",
+            "timestamp": 1638756188000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 07",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 138,
+                    "type": "content",
+                    "label": "Software Updates",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "geo.prod.do.dsp.mp.microsoft.com",
+            "timestamp": 1638756187000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 03: 06",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 138,
+                    "type": "content",
+                    "label": "Software Updates",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "array509.prod.do.dsp.mp.microsoft.com",
+            "timestamp": 1638756186000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [
+                {
+                    "id": 46131,
+                    "label": "Microsoft OneDrive",
+                    "category": {
+                        "id": 6,
+                        "label": "Cloud Storage"
+                    }
+                }
+            ],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 02: 56",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "skydrive.wns.windows.com",
+            "timestamp": 1638756176000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [
+                {
+                    "id": 997236,
+                    "label": "Windows Diagnostics Data",
+                    "category": {
+                        "id": 44,
+                        "label": "IT Service Management"
+                    }
+                }
+            ],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 02: 51",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 32,
+                    "type": "content",
+                    "label": "Business Services",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "self.events.data.microsoft.com",
+            "timestamp": 1638756171000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        },
+        {
+            "returncode": 0,
+            "externalip": "88.102.8.183",
+            "allapplications": [
+                {
+                    "id": 992174,
+                    "label": "OneDrive for Business",
+                    "category": {
+                        "id": 6,
+                        "label": "Cloud Storage"
+                    }
+                }
+            ],
+            "date": "2021-12-06",
+            "internalip": "192.168.219.130",
+            "time": "02: 02: 46",
+            "querytype": "A",
+            "policycategories": [],
+            "type": "dns",
+            "categories": [
+                {
+                    "id": 9,
+                    "type": "content",
+                    "label": "File Storage",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 25,
+                    "type": "content",
+                    "label": "Software/Technology",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 123,
+                    "type": "content",
+                    "label": "Infrastructure",
+                    "integration": false,
+                    "deprecated": false
+                },
+                {
+                    "id": 148,
+                    "type": "application",
+                    "label": "Application",
+                    "integration": false,
+                    "deprecated": false
+                }
+            ],
+            "verdict": "allowed",
+            "domain": "api.onedrive.com",
+            "timestamp": 1638756166000,
+            "blockedapplications": [],
+            "allowedapplications": [],
+            "identities": [
+                {
+                    "id": 576549176,
+                    "type": {
+                        "id": 9,
+                        "type": "roaming",
+                        "label": "Roaming Computers"
+                    },
+                    "label": "DESKTOP-NHEV5VH",
+                    "deleted": false
+                }
+            ],
+            "threats": []
+        }
+    ]
+}

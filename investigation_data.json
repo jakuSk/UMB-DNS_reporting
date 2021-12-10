@@ -1,0 +1,90 @@
+[
+    {
+        "domain": "www.pornhub.com",
+        "risk_score": 2,
+        "registrar_name": "Eurodns S.A.",
+        "name_servers": [
+            "dns1.p03.nsone.net",
+            "dns2.p03.nsone.net",
+            "dns3.p03.nsone.net",
+            "dns4.p03.nsone.net",
+            "sdns3.ultradns.biz",
+            "sdns3.ultradns.com",
+            "sdns3.ultradns.net",
+            "sdns3.ultradns.org"
+        ],
+        "registrant_name": "Whois Privacy"
+    },
+    {
+        "domain": "ci.phncdn.com",
+        "risk_score": 1,
+        "registrar_name": "Eurodns S.A.",
+        "name_servers": [
+            "dns1.p03.nsone.net",
+            "dns2.p03.nsone.net",
+            "dns3.p03.nsone.net",
+            "dns4.p03.nsone.net",
+            "sdns3.ultradns.biz",
+            "sdns3.ultradns.com",
+            "sdns3.ultradns.net",
+            "sdns3.ultradns.org"
+        ],
+        "registrant_name": "Whois Privacy"
+    },
+    {
+        "domain": "thumbs.freevideo.cz",
+        "risk_score": 6,
+        "registrar_name": "REG-ACTIVE24",
+        "name_servers": [
+            "beth.ns.cloudflare.com",
+            "lars.ns.cloudflare.com"
+        ],
+        "registrant_name": "Netlook s.r.o."
+    },
+    {
+        "domain": "ei.phncdn.com",
+        "risk_score": 1,
+        "registrar_name": "Eurodns S.A.",
+        "name_servers": [
+            "dns1.p03.nsone.net",
+            "dns2.p03.nsone.net",
+            "dns3.p03.nsone.net",
+            "dns4.p03.nsone.net",
+            "sdns3.ultradns.biz",
+            "sdns3.ultradns.com",
+            "sdns3.ultradns.net",
+            "sdns3.ultradns.org"
+        ],
+        "registrant_name": "Whois Privacy"
+    },
+    {
+        "domain": "www.freevideo.cz",
+        "risk_score": 14,
+        "registrar_name": "REG-ACTIVE24",
+        "name_servers": [
+            "beth.ns.cloudflare.com",
+            "lars.ns.cloudflare.com"
+        ],
+        "registrant_name": "Netlook s.r.o."
+    },
+    {
+        "domain": "freevideo.cz",
+        "risk_score": 20,
+        "registrar_name": "REG-ACTIVE24",
+        "name_servers": [
+            "beth.ns.cloudflare.com",
+            "lars.ns.cloudflare.com"
+        ],
+        "registrant_name": "Netlook s.r.o."
+    },
+    {
+        "domain": "static.freevideo.cz",
+        "risk_score": 5,
+        "registrar_name": "REG-ACTIVE24",
+        "name_servers": [
+            "beth.ns.cloudflare.com",
+            "lars.ns.cloudflare.com"
+        ],
+        "registrant_name": "Netlook s.r.o."
+    }
+]

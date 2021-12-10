@@ -1,0 +1,59 @@
+{
+    "indicators": [
+        {
+            "indicator": "Geo Popularity Score",
+            "indicator_id": "Geo Popularity Score",
+            "normalized_score": 2,
+            "score": -3.6108781699999963
+        },
+        {
+            "indicator": "Keyword Score",
+            "indicator_id": "Keyword Score",
+            "normalized_score": 9,
+            "score": 0.09264255482489717
+        },
+        {
+            "indicator": "Lexical",
+            "indicator_id": "Lexical",
+            "normalized_score": 60,
+            "score": 0.606
+        },
+        {
+            "indicator": "Popularity 1 Day",
+            "indicator_id": "Popularity 1 Day",
+            "normalized_score": 100,
+            "score": 188.11
+        },
+        {
+            "indicator": "Popularity 30 Day",
+            "indicator_id": "Popularity 30 Day",
+            "normalized_score": 100,
+            "score": 188.2
+        },
+        {
+            "indicator": "Popularity 7 Day",
+            "indicator_id": "Popularity 7 Day",
+            "normalized_score": 100,
+            "score": 188.97
+        },
+        {
+            "indicator": "Popularity 90 Day",
+            "indicator_id": "Popularity 90 Day",
+            "normalized_score": 100,
+            "score": 187.37
+        },
+        {
+            "indicator": "TLD Rank Score",
+            "indicator_id": "TLD Rank Score",
+            "normalized_score": 0,
+            "score": 0.0007731115691724988
+        },
+        {
+            "indicator": "Umbrella Block Status",
+            "indicator_id": "Umbrella Block Status",
+            "normalized_score": 0,
+            "score": False
+        }
+    ],
+    "risk_score": 6
+}
